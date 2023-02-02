@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fikurimax
 - 🌱 I’m currently learning PHP, GO, and Js
-- 💞️ I’m looking to collaborate on website development especially on Backend stack as i'm more interested in
 - 📫 You can reach me on email fikri.d.haikal@gmail.com or twitter [@fikurimax](https://twitter.com/fikurimax) or anywhere else, I'm known as fikurimax!
 
 <!---
